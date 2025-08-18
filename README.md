@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tharaka Samaraweera  
 
 🚀 A passionate developer exploring **Web, Mobile, and Cloud technologies**.  
-Currently pursuing studies at **SLIT** while building real-world projects in **Java, Kotlin, MERN Stack**, and more.  
+Currently pursuing studies at **SLIIT** while building real-world projects in **Java, Kotlin, MERN Stack**, and more.  
 
 ---
 
@@ -41,8 +41,8 @@ Currently pursuing studies at **SLIT** while building real-world projects in **J
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](#) (add your link)  
-- 📧 Email: *your.email@example.com*  
+- 🌐 [LinkedIn](#) www.linkedin.com/in/tharaka-samaraweera-b0a9b1365  
+- 📧 Email: tharakasamaraweera45@gmail.com  
 
 ---
 
