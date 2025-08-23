@@ -46,6 +46,4 @@ Currently pursuing studies at **SLIIT** while building real-world projects in **
 
 ---
 
-⭐️ *“Code, Learn, and Build every day!
-
-”*  
+⭐️ *“Code, Learn, and Build every day!”*  
