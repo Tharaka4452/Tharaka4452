@@ -50,10 +50,11 @@ Currently pursuing studies at **SLIIT** while building real-world projects in **
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharaka4452&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tharaka4452&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharaka4452&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tharaka4452&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaka4452&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaka4452&theme=default" alt="GitHub Streak"/>
 </p>
+
