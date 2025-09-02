@@ -57,3 +57,5 @@ Currently pursuing studies at **SLIIT** while building real-world projects in **
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaka4452&theme=default" alt="GitHub Streak"/>
 </p>
+
+
