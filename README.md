@@ -6,7 +6,7 @@ Currently pursuing studies at **SLIIT** while building real-world projects in **
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science Student @ SLIT  
+- 🎓 Computer Science Student @ SLIIT  
 - 💻 Skilled in **Java, Kotlin, MERN Stack (MongoDB, Express, React, Node.js)**  
 - 📱 Interested in **Mobile App Development & Web Applications**  
 - ☁️ Exploring **Cloud Computing & DevOps**  
