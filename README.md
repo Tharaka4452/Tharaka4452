@@ -41,125 +41,33 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 <div align="center">
-  <h4>Elegant Tech Stack</h4>
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/><br/>
-        <sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="Kotlin"/><br/>
-        <sub><b>Kotlin</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/><br/>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br/>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C"/><br/>
-        <sub><b>C</b></sub>
-      </td>
-    </tr>
-  </table>
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,c,cpp" height="45" />
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/><br/>
-        <sub><b>React</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/><br/>
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/><br/>
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" alt="Tailwind"/><br/>
-        <sub><b>Tailwind</b></sub>
-      </td>
-    </tr>
-  </table>
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui" height="45" />
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/><br/>
-        <sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express"/><br/>
-        <sub><b>Express</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Servlets"/><br/>
-        <sub><b>Servlets</b></sub>
-      </td>
-    </tr>
-  </table>
+### ⚙️ Backend & Frameworks  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" height="45" />
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android"/><br/>
-        <sub><b>Android</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" height="24" alt="Material"/><br/>
-        <sub><b>Material Design</b></sub>
-      </td>
-    </tr>
-  </table>
+### 📱 Mobile  
+<img src="https://skillicons.dev/icons?i=android,kotlin,firebase" height="45" />
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/><br/>
-        <sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB"/><br/>
-        <sub><b>MongoDB</b></sub>
-      </td>
-    </tr>
-  </table>
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45" />
 
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/><br/>
-        <sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/><br/>
-        <sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse"/><br/>
-        <sub><b>Eclipse</b></sub>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="24" alt="Postman"/><br/>
-        <sub><b>Postman</b></sub>
-      </td>
-    </tr>
-  </table>
+### ☁️ Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,gitlab" height="45" />
+
+### 🔧 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux" height="45" />
+
 </div>
+
 
 ---
 
