@@ -19,14 +19,19 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tharaka4452&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Tharaka4452?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Tharaka4452?label=Stars" alt="GitHub Stars" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+  
+<table>
+  <tr>
+    <td>
+
+ ## 🧑‍💻 About Me
 
 🎓 **Data Science Student** at **SLIIT**  
 📍 **Colombo, Sri Lanka**  
@@ -38,6 +43,19 @@
 - 📱 **Mobile App Development** - Creating Android applications with Kotlin
 - ☁️ **Cloud Computing** - Exploring Azure, AWS, and DevOps practices
 - 🎓 **Continuous Learning** - Always expanding my technical skills
+
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+- 
 
 ---
 
