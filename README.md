@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:F59E0B&height=220&section=header&text=Tharaka%20Samaraweera&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=56&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:F59E0B&height=220&section=header&text=Tharaka%20Samaraweera&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=56&descAlign=50" alt="header"/>
 </p>
 
 <p align="center" style="margin-top:-18px;">
@@ -28,8 +28,8 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Computer Science Student** at **SLIIT**  
-📍 **Mawanella, Kegalle, Sri Lanka**  
+🎓 **Data Science Student** at **SLIIT**  
+📍 **Colombo, Sri Lanka**  
 💻 **Passionate Developer** exploring Web, Mobile, and Cloud technologies  
 🚀 **Building real-world projects** in Java, Kotlin, MERN Stack, and more
 
