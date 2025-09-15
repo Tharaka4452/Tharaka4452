@@ -133,6 +133,13 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharaka4452/Tharaka4452/output/snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tharaka4452/Tharaka4452/output/snake.svg" />
+</picture>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
