@@ -1,12 +1,9 @@
 name: Generate snake
 
 on:
-  # Run once a day (UTC). You can change the time.
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual runs
-  workflow_dispatch:
-  # Rebuild on README changes, etc.
+    - cron: "0 0 * * *" # Run once a day (UTC)
+  workflow_dispatch: # Allow manual runs
   push:
     branches: ["main"]
 
@@ -15,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Generate the snake files
+      # Checkout repository
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # Generate snake files
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -24,9 +25,9 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # 2) Publish them to the `output` branch
+      # Publish to output branch
       - name: Push snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
